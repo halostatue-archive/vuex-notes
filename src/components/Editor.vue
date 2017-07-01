@@ -9,7 +9,7 @@
 
 <script>
 import { mapActions, mapGetters, mapMutations } from 'vuex'
-import { EDIT_NOTE } from '@/vuex/store'
+import { EDIT_NOTE } from '@/vuex/constants'
 
 export default {
   methods: {

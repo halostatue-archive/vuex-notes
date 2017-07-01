@@ -9,7 +9,7 @@
 
 <script>
 import { mapGetters, mapMutations } from 'vuex'
-import { ADD_NOTE, DELETE_NOTE, TOGGLE_FAVOURITE } from '@/vuex/store'
+import { ADD_NOTE, DELETE_NOTE, TOGGLE_FAVOURITE } from '@/vuex/constants'
 
 
 export default {
